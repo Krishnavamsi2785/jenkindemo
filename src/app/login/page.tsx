@@ -9,6 +9,8 @@ const page = () => {
             <div style={{display:"flex",flexDirection:"column",height:"200px",width:"300px",backgroundColor:"white",borderRadius:"10px",margin:"0 auto",marginTop:"50px",alignItems:"center",justifyContent:"center"}}>
                 <input type="text" placeholder='Username' style={{padding: '10px', margin: '10px', borderRadius: '5px', border: 'none'}} />
                 <input type="password" placeholder='Password' style={{padding: '10px', margin: '10px', borderRadius: '5px', border: 'none'}} />
+                <input type="email" placeholder='email' style={{padding: '10px', margin: '10px', borderRadius: '5px', border: 'none'}} />
+
                 <button style={{padding: '10px 20px', margin: '10px', borderRadius: '5px', border: 'none', backgroundColor: '#333', color: 'white'}}>Login</button>
             </div>
 

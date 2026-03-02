@@ -4,7 +4,7 @@ const page = () => {
   return (
     <>
 
-        <div className='login' style={{ height: '100vh', backgroundColor: '#7ab7fdff', margin: '0'}}>
+        <div className='login' style={{ height: '100vh', backgroundColor: '#a0ec90ff', margin: '0'}}>
             <h1 style={{marginTop:"0px", color: 'white',fontSize:"24px",display:"flex", justifyContent:"center"}}><strong>Login Page</strong></h1>
             <div style={{display:"flex",flexDirection:"column",height:"200px",width:"300px",backgroundColor:"white",borderRadius:"10px",margin:"0 auto",marginTop:"50px",alignItems:"center",justifyContent:"center"}}>
                 <input type="text" placeholder='Username' style={{padding: '10px', margin: '10px', borderRadius: '5px', border: 'none'}} />
